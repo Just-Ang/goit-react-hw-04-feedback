@@ -1,0 +1,24 @@
+.list{
+list-style: none;
+margin-left: 30px;
+font-size: 30px;
+font-weight: 600;
+}
+
+
+
+.listItem {
+padding: 10px;
+}
+
+.listItem:first-child {
+  color: rgb(77, 136, 65);
+}
+
+.listItem:nth-child(2)  {
+  color: rgb(197, 127, 22);
+}
+
+.listItem:nth-child(3)  {
+  color: rgb(138, 44, 44);
+}
